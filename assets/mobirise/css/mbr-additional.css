@@ -966,7 +966,7 @@ pre {
 }
 .navbar-toggler-left {
   position: absolute;
-  right: 1rem;
+  /*right: 1rem;*/
 }
 .navbar-toggler-right {
   position: absolute;
@@ -1610,7 +1610,7 @@ body {
     -webkit-flex-direction: column;
   }
   .cid-rosiwOIf41 img {
-    height: 3.8rem !important;
+    /*height: 3.8rem !important;*/
   }
   .cid-rosiwOIf41 .btn {
     display: -webkit-flex;
@@ -3034,7 +3034,7 @@ body {
     -webkit-flex-direction: column;
   }
   .cid-rosiwOIf41 img {
-    height: 3.8rem !important;
+    /*height: 3.8rem !important;*/
   }
   .cid-rosiwOIf41 .btn {
     display: -webkit-flex;
@@ -3544,7 +3544,7 @@ body {
     -webkit-flex-direction: column;
   }
   .cid-rosiwOIf41 img {
-    height: 3.8rem !important;
+    /*height: 3.8rem !important;*/
   }
   .cid-rosiwOIf41 .btn {
     display: -webkit-flex;
