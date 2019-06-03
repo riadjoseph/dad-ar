@@ -2212,11 +2212,11 @@ body {
   color: #417e68;
 }
 .cid-rr9MOSZIrU .mbr-slider .carousel-control.carousel-control-prev {
-  right: 0;
+  left: 0;
   /* margin-left: 2.5rem; */
 }
 .cid-rr9MOSZIrU .mbr-slider .carousel-control.carousel-control-next {
-  left: 0;
+  right: 0;
   /* margin-right: 2.5rem;*/
 }
 .cid-rr9MOSZIrU .mbr-slider .carousel-control .mbr-iconfont {
