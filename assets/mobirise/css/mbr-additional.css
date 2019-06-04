@@ -597,7 +597,7 @@ a:hover {
   right: 30%;
   bottom: 30%;
   transform: rotate(135deg);
-  -webkit-transform: rotate(135deg);
+  -webkit-transform: rotate(225deg);
 }
 /* Others*/
 .note-check a[data-value=Rubik] {
