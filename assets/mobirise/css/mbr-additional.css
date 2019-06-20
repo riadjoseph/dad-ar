@@ -1815,6 +1815,7 @@ body {
   z-index: -1;
   bottom: -0.4em;
   left: -0.38em;
+  right: initial;
   font-family: 'Cairo', sans-serif;
   font-weight: 700;
   font-size: 8.75em;
